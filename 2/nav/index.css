@@ -1,0 +1,19 @@
+nav {
+  overflow:hidden;
+  scroll-behavior:smooth;
+}
+
+.nav-container {
+  height:calc(3em + 4px);
+}
+
+.nav-section {
+  padding:calc(1em + 2px);
+  width:100vw;
+}
+
+.nav-a {
+  border:solid 1px transparent;
+  padding:1em;
+  text-decoration: none;
+}
